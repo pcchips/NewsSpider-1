@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/httpclient-4.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/httpcore-4.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/jsoup-1.8.3-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/jsoup-1.8.3-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/jsoup-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/jxl.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/mysql-connector-java-5.1.35-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/poi-3.8-20120326.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/selenium-server-standalone-2.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/weka-src.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/weka.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/webmagic-extension-0.5.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/webmagic-extension-0.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/assertj-core-1.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/commons-codec-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/commons-io-1.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/commons-lang-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/commons-lang3-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/commons-logging-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/commons-pool-1.5.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/fastjson-1.1.37.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/guava-15.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/hamcrest-core-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/httpclient-4.3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/httpcore-4.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/jedis-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/json-path-0.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/json-smart-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/junit-4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/slf4j-api-1.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/webmagic/all-dependencies-0.5.2/xsoup-0.2.4.jar"/>
+	<classpathentry kind="lib" path="libs/webmagic/webmagic-core2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FileManipulation"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
